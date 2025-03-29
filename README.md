@@ -17,8 +17,8 @@ A simple Getting Things Done (GTD) task manager built with React Native and Expo
 
 ## Getting Started
 
-1. **Clone the repo**
-   ```bash
+1. Clone the repo
+
    git clone https://github.com/Aayush9266/gtd_app.git
    ```
 
