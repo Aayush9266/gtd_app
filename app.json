@@ -28,7 +28,13 @@
       "favicon": "./assets/images/favicon.png"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      [
+        "@react-native-community/datetimepicker",
+        {
+          "mode": "date"
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true

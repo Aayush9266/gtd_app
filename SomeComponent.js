@@ -1,0 +1,9 @@
+// ...existing code...
+// import { useTaskContext } from './context/TaskContext'; // Remove this import
+// ...existing code...
+
+const SomeComponent = () => {
+    // const { tasks, addTask } = useTaskContext(); // Remove usage of useTaskContext
+    // Refactor any dependent logic here
+    // ...existing code...
+};

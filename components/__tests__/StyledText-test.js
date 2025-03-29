@@ -1,10 +1,10 @@
 import * as React from 'react';
-import renderer from 'react-test-renderer';
+import { create } from 'jest-expo'; // Updated import
 
 import { MonoText } from '../StyledText';
 
 it(`renders correctly`, () => {
-  const tree = renderer.create(<MonoText>Snapshot test!</MonoText>).toJSON();
+  const tree = create(<MonoText>Snapshot test!</MonoText>).toJSON();
 
   expect(tree).toMatchSnapshot();
 });
