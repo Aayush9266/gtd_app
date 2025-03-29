@@ -5,7 +5,7 @@ Here's a simplified README with essential information and a screenshots section:
 
 A simple Getting Things Done (GTD) task manager built with React Native and Expo.
 
-![App Screenshot](/assets/screenshots/main.png) <!-- Add your actual screenshot path -->
+![App Screenshot]https://github.com/Aayush9266/gtd_app/blob/main/assets/WhatsApp%20Image%202025-03-29%20at%2020.11.30.jpeg <!-- Add your actual screenshot path -->
 
 ## Key Features
 - Add tasks with title, priority, and due dates
